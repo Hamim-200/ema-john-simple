@@ -9,3 +9,7 @@
     gap: 45px;
     margin: 100px 50px;
 }
+
+.card-container {
+    background-color: rgba(255, 153, 0, 0.3);
+}
